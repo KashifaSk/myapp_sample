@@ -1,0 +1,1 @@
+This is first attempt to integrate jenkins an git on 17th Dec, time 21,00
